@@ -1,0 +1,52 @@
+body{
+
+	background-color: black;
+
+	
+
+}
+
+table{
+	width: 100%;
+	color: white;
+
+}
+
+th, td{
+	border-style: solid;
+
+	border-top: none;
+
+	border-left: none;
+
+	border-color: grey;
+}
+
+a{
+	color: white;
+}
+
+
+.main{
+
+
+	background-image: url("Carambit.png");
+	
+	background-repeat: no-repeat;
+
+	text-align:  center;
+
+	background-position: center;
+}
+
+.leftside{
+
+	border-left: solid;
+	border-color: grey;
+}
+
+.topside{
+
+	border-top: solid;
+	border-color: grey;
+}
